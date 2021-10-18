@@ -1,8 +1,5 @@
 // Emmanuel Isidahomen 
-// Trying to get the actual days from the mounths 
-//Umes
-//10-16-2017
-//code 7
+// Trying to get the actual days from the mounths
 #include <iostream>
 using namespace std;
 
